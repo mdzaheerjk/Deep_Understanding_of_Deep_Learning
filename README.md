@@ -56,6 +56,42 @@ Jupyter Notebook
 
 Deep learning frameworks:
 
-https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white
+![tenserflow](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 
-https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white
+![enserflow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+
+### Install dependencies:
+```bash
+bash
+pip install jupyter numpy matplotlib torch tensorflow
+```
+### 📜 License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+### 🙏 Acknowledgments
+Inspired by deep learning courses and research papers
+
+Built for educational purposes
+
+<div align="left"> <sub>Created with ❤︎ by <a href="https://github.com/mdzaheerjk">mdzaheerjk</a></sub> </div>
+
+### Key improvements:
+```bash
+
+Added relevant icons for each section (🧠, 📚, 🚀, etc.)
+
+Included framework badges (PyTorch, TensorFlow)
+
+Formatted the content in easy-to-read tables
+
+Added visual separation between sections
+
+Included a nice footer with creator credit
+
+Used folder icons (📁) for directory listings
+
+Added Python and Jupyter badges at the top
+
+Improved code block formatting
+
+The icons are all Unicode emojis that will render properly on GitHub and most modern systems. The badges use shields.io for consistent styling.
