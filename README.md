@@ -1,5 +1,7 @@
 # Deep Understanding of Deep Learning
 
+![repo logo]
+
 Welcome to **Deep Understanding of Deep Learning**!
 
 This repository is a comprehensive resource for anyone interested in mastering deep learning. Here, you’ll find well-structured code, interactive notebooks, and curated notes that break down both foundational and cutting-edge concepts in deep learning.
