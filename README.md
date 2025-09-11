@@ -1,6 +1,6 @@
 # Deep Understanding of Deep Learning
 
-![repo logo]
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2rsmb8oS03TW9-XJTE7oUIZn6DOEiML9NtNDwG1rx3JNBzV13oV-I6oknsy3TP9_cahA&usqp=CAU" alt="repo logo" width="800" height="800">
 
 Welcome to **Deep Understanding of Deep Learning**!
 
